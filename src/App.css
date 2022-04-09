@@ -1,6 +1,6 @@
 .app {
-	&__card {
-		color: #fff;
-		background-color: green;
-	}
+    &__card {
+        color: #fff;
+        background-color: green;
+    }
 }
